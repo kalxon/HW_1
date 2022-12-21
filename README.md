@@ -1,5 +1,5 @@
 # HW_1
-Что было сделано? 
+Что было сделано:
 # EDA
 - Были рассмотрены датасеты train и test
 - Посмотрел на пропуски и дупликаты в каждом датасете.
@@ -32,4 +32,15 @@
 - Реализовал кастомную метрику, где результат равен 0.2%
 
 # FastApi
-Не получилось((((
+Реализовал только по числовым признакам.
+Item
+<img width="1377" alt="image" src="https://user-images.githubusercontent.com/79221479/208835640-b86c905d-a377-4298-87f3-7dc2c3a4f2cc.png">
+<img width="1385" alt="image" src="https://user-images.githubusercontent.com/79221479/208835681-f2cd2cf3-5749-423d-ad22-a1093c84959f.png">
+
+Items
+<img width="1390" alt="image" src="https://user-images.githubusercontent.com/79221479/208835839-f9f8525c-55a0-4712-a707-a4e9c8b54bea.png">
+<img width="1387" alt="image" src="https://user-images.githubusercontent.com/79221479/208835902-0fe69e65-33f4-4534-af23-05ef3afefa84.png">
+
+
+
+
